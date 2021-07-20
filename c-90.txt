@@ -1,0 +1,5 @@
+1.creating app for quizes-someone want quiz for them
+2.creating app for textbooks-who can't by textbook for them this app
+3.creating app for solutions-who dont no answer for them
+4.creating app for buying and selling
+5.creating app for social media
